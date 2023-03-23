@@ -1,0 +1,24 @@
+{
+  "name": "adopt-me-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgilroy22/adopt-me-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamgilroy22/adopt-me-react-app/issues"
+  },
+  "homepage": "https://github.com/adamgilroy22/adopt-me-react-app#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
